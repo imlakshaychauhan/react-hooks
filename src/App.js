@@ -1,4 +1,5 @@
 import './App.css'
+import Context_Tut from './useContext/Context_Tut';
 import Effect_Tut from './useEffect/Effect_Tut';
 import Imperative_Handle_Tut from './useImperativeHandle/Imperative_Handle_Tut';
 import Layout_Effect_Tut from './useLayoutEffect/Layout_Effect_Tut';
@@ -13,7 +14,8 @@ function App() {
     // <Effect_Tut />
     // <Ref_Tut />
     // <Layout_Effect_Tut />
-    <Imperative_Handle_Tut />
+    // <Imperative_Handle_Tut />
+    <Context_Tut/>
   );
 }
 
