@@ -1,5 +1,6 @@
 import './App.css'
 import Effect_Tut from './useEffect/Effect_Tut';
+import Imperative_Handle_Tut from './useImperativeHandle/Imperative_Handle_Tut';
 import Layout_Effect_Tut from './useLayoutEffect/Layout_Effect_Tut';
 import Reducer_Tut from './useReducer/Reducer_Tut';
 import Ref_Tut from './useRef/Ref_Tut';
@@ -11,7 +12,8 @@ function App() {
     // <Reducer_Tut />
     // <Effect_Tut />
     // <Ref_Tut />
-    <Layout_Effect_Tut />
+    // <Layout_Effect_Tut />
+    <Imperative_Handle_Tut />
   );
 }
 
