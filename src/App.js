@@ -1,4 +1,5 @@
 import './App.css'
+import Callback_Tut from './useCallback/Callback_Tut';
 import Context_Tut from './useContext/Context_Tut';
 import Effect_Tut from './useEffect/Effect_Tut';
 import Imperative_Handle_Tut from './useImperativeHandle/Imperative_Handle_Tut';
@@ -17,7 +18,8 @@ function App() {
     // <Layout_Effect_Tut />
     // <Imperative_Handle_Tut />
     // <Context_Tut/>
-    <Memo_Tut />
+    // <Memo_Tut />
+    <Callback_Tut />
   );
 }
 
